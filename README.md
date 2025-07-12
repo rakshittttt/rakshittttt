@@ -115,4 +115,4 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100%"/>
 </div>
 
-⭐️ From [Rakshit Rana](https://github.com/rakshitrana)
+⭐️ From [Rakshit Rana](https://github.com/rakshittttt)
