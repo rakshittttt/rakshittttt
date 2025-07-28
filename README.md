@@ -92,7 +92,7 @@
   <a href="mailto:rakshitrana412@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/rakshittttt">
+  <a href="https://www.linkedin.com/in/rakshit-rana-3baba0280/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/rakshitrana">
